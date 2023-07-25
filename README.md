@@ -1,2 +1,3 @@
 # MS-Vulnerable-Driver-List
-Convert Microsoft's driver blocklist to a EDR detection hash list for unsupported operating systems (eg. Win 7,8)
+## This tool is for machines that do not support Microsoft's vulnerable driver blocklist (eg. Windows 7,8).
+## The resulting SHA256 hash list can be loaded into many EDR products for detection and/or blocking.
